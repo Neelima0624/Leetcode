@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Neelima0624/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Neelima0624/Leetcode/tree/master/0056-merge-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Neelima0624/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [1920-build-array-from-permutation](https://github.com/Neelima0624/Leetcode/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Neelima0624/Leetcode/tree/master/0101-symmetric-tree) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Neelima0624/Leetcode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
