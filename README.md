@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Neelima0624/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Neelima0624/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Neelima0624/Leetcode/tree/master/0056-merge-intervals) |
+| [0485-max-consecutive-ones](https://github.com/Neelima0624/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
