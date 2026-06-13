@@ -8,7 +8,8 @@ class Solution {
             sum = sum + nums[right];
             while(sum>=target)
             {
-                min_count = Math.min(min_count,right-left+1);
+                int size = right - left + 1;
+                min_count = Math.min(min_count,size);
                 sum = sum - nums[left];
                 left++;
             }
