@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Neelima0624/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Neelima0624/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Neelima0624/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0997-find-the-town-judge](https://github.com/Neelima0624/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neelima0624/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1672-richest-customer-wealth](https://github.com/Neelima0624/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Neelima0624/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neelima0624/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Neelima0624/Leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
+| [0997-find-the-town-judge](https://github.com/Neelima0624/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Neelima0624/Leetcode/tree/master/1025-divisor-game) |
+## Graph Theory
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/Neelima0624/Leetcode/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
