@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Neelima0624/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0997-find-the-town-judge](https://github.com/Neelima0624/Leetcode/tree/master/0997-find-the-town-judge) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Neelima0624/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neelima0624/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neelima0624/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Neelima0624/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neelima0624/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
