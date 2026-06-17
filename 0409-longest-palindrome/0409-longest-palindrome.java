@@ -7,15 +7,14 @@ class Solution {
         }
         int count = 0;
         boolean odd = false;
-        for(char key : map.keySet())
+        for(Integer i : map.values())
         {
-           int freq = map.get(key);
-           if(freq %2==0)
+           if(i %2==0)
            {
-            count = count+freq;
+            count = count+i;
            }
            else{
-            count = count+freq-1;
+            count = count+i-1;
             odd = true;
            }
     }
