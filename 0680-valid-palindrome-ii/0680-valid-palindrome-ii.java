@@ -1,26 +1,28 @@
 class Solution {
     public boolean validPalindrome(String s) {
-        int l = 0, r = s.length() - 1;
+        int left = 0;
+        int right = s.length() - 1;
 
-        while (l < r) {
-            if (s.charAt(l) != s.charAt(r)) {
-                return isPalindrome(s, l + 1, r) ||
-                       isPalindrome(s, l, r - 1);
-            }
-            l++;
-            r--;
-        }
-
-        return true;
+       while(left<right)
+       {
+          if(s.charAt(left)!=s.charAt(right))
+          {
+            return isPalindrome(s,left+1,right) ||
+                isPalindrome(s,left,right-1);
+          }
+          left++;
+          right--;
+       }
+       return true;
     }
 
-    private boolean isPalindrome(String s, int l, int r) {
-        while (l < r) {
-            if (s.charAt(l) != s.charAt(r)) {
+    private boolean isPalindrome(String s, int left, int right) {
+        while (left<right) {
+            if (s.charAt(left) != s.charAt(right)) {
                 return false;
             }
-            l++;
-            r--;
+            left++;
+            right--;
         }
         return true;
     }
