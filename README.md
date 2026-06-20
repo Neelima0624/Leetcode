@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Neelima0624/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Neelima0624/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Neelima0624/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3612-process-string-with-special-operations-i](https://github.com/Neelima0624/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Neelima0624/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3612-process-string-with-special-operations-i](https://github.com/Neelima0624/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Matrix
 |  |
 | ------- |
