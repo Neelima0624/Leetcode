@@ -1,13 +1,25 @@
 class Solution {
     public int mySqrt(int x) {
-        for(int i=0;i<=x;i++)
+       int s = 0;
+       int e = x;
+       int ans = 0;
+       while(s<=e)
+       {
+        int mid = (s+e)/2;
+        long square = (long)mid*mid;
+        if(square == x)
         {
-            if((long)i*i>x)
-            {
-                return i-1;
-            }
+            return mid;
         }
-        return x;
-
+        else if(square<x)
+        {
+          ans = mid;
+          s = mid+1;
+        }
+        else {
+            e = mid-1;
+        }
+       }
+       return ans;
     }
 }
