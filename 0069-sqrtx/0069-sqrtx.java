@@ -1,5 +1,13 @@
 class Solution {
     public int mySqrt(int x) {
-        return (int)Math.sqrt(x);
+        for(int i=0;i<=x;i++)
+        {
+            if((long)i*i>x)
+            {
+                return i-1;
+            }
+        }
+        return x;
+
     }
 }
