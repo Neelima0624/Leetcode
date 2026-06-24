@@ -5,7 +5,7 @@ class Solution {
         while(s<=e)
         {
             int mid = (s+e)/2;
-            if(mid*mid==num)
+            if((long)mid*mid==num)
             {
                 return true;
             }
