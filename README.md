@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neelima0624/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neelima0624/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neelima0624/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/Neelima0624/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neelima0624/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Neelima0624/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Neelima0624/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Neelima0624/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Neelima0624/Leetcode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Neelima0624/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/Neelima0624/Leetcode/tree/master/1025-divisor-game) |
 ## String
 |  |
