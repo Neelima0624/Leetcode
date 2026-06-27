@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Neelima0624/Leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Neelima0624/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Neelima0624/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0202-happy-number](https://github.com/Neelima0624/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Neelima0624/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Neelima0624/Leetcode/tree/master/0383-ransom-note) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Neelima0624/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Neelima0624/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Neelima0624/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Neelima0624/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Neelima0624/Leetcode/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Neelima0624/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Neelima0624/Leetcode/tree/master/0567-permutation-in-string) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Neelima0624/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Neelima0624/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Neelima0624/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Neelima0624/Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Neelima0624/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/Neelima0624/Leetcode/tree/master/1025-divisor-game) |
 ## String
