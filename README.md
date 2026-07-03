@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Neelima0624/Leetcode/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Neelima0624/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/Neelima0624/Leetcode/tree/master/1025-divisor-game) |
+| [2119-a-number-after-a-double-reversal](https://github.com/Neelima0624/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## String
 |  |
 | ------- |
