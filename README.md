@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Neelima0624/Leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Neelima0624/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neelima0624/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Neelima0624/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Neelima0624/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Neelima0624/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Neelima0624/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Neelima0624/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/Neelima0624/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Neelima0624/Leetcode/tree/master/0409-longest-palindrome) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Neelima0624/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Neelima0624/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neelima0624/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Neelima0624/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Neelima0624/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neelima0624/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Neelima0624/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Neelima0624/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Neelima0624/Leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Neelima0624/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1025-divisor-game](https://github.com/Neelima0624/Leetcode/tree/master/1025-divisor-game) |
 | [2119-a-number-after-a-double-reversal](https://github.com/Neelima0624/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Neelima0624/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Neelima0624/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -216,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Neelima0624/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
