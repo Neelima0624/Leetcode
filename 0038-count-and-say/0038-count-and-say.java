@@ -1,8 +1,8 @@
 class Solution {
     public String countAndSay(int n) {
-        String s = "1";
-        for(int i=2;i<=n;i++)
-        {
+   return Solve(1,n,"1");
+    }
+       public static String rle(String s){
            StringBuilder ans = new StringBuilder();
            int j=0;
            while(j<s.length())
@@ -17,8 +17,14 @@ class Solution {
             ans.append(s.charAt(j));
            j++;
         }
-        s=ans.toString();
-        }
-        return s; 
+        return ans.toString();
+    }
+    public static String Solve(int c,int n,String s)
+    {
+       if(c==n)
+       {
+        return s;
+       }
+       return Solve(c+1,n,rle(s));
     }
 }
