@@ -253,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Neelima0624/Leetcode/tree/master/0050-powx-n) |
+## Database
+|  |
+| ------- |
+| [0627-swap-sex-of-employees](https://github.com/Neelima0624/Leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
