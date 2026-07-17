@@ -1,6 +1,11 @@
 class Solution {
     public String countAndSay(int n) {
-   return Solve(1,n,"1");
+   if(n==1)
+   {
+    return "1";
+   }
+   String ans = countAndSay(n-1);
+   return rle(ans);
     }
        public static String rle(String s){
            StringBuilder ans = new StringBuilder();
@@ -18,13 +23,5 @@ class Solution {
            j++;
         }
         return ans.toString();
-    }
-    public static String Solve(int c,int n,String s)
-    {
-       if(c==n)
-       {
-        return s;
-       }
-       return Solve(c+1,n,rle(s));
     }
 }
