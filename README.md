@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Neelima0624/Leetcode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Neelima0624/Leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Database
 |  |
 | ------- |
@@ -265,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Neelima0624/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Neelima0624/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
