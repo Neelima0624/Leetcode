@@ -17,7 +17,7 @@ class Solution {
             c = c+1;
             curr=curr.next;
         }
-        if(c==n)
+        if(c-n==0)
         {
            return head.next;
         }
