@@ -26,13 +26,13 @@ public class Solution {
         {
             return null;
         }
-        fast = head;
+        slow=head;
       while(fast!=slow)
       {
         slow=slow.next;
         fast=fast.next;
       }
-      return fast;
+      return slow;
 
     }
 }
