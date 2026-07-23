@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Neelima0624/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0627-swap-sex-of-employees](https://github.com/Neelima0624/Leetcode/tree/master/0627-swap-sex-of-employees) |
 ## Heap (Priority Queue)
 |  |
