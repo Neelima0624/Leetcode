@@ -3,29 +3,36 @@ class Solution {
         Stack<Integer> st = new Stack<>();
         for(int i:asteroids)
         {
-            if(i>0)
+            boolean destroyed = false;
+            while(!st.isEmpty() && st.peek() > 0 && i<0)
             {
-                st.push(i);
+                if(Math.abs(i)>st.peek())
+                {
+                   st.pop();
+                }
+                else if(Math.abs(i)<st.peek())
+                {
+                    destroyed = true;
+                    break;
+                }
+                else if(Math.abs(i)==st.peek())
+                {
+                    st.pop();
+                    destroyed = true;
+                    break;
+                }
             }
-            else
+            if(!destroyed)
             {
-                while(!st.isEmpty() && st.peek()>0 && st.peek()<-i){
-                    st.pop();
-                }
-                if (st.isEmpty() || st.peek() < 0) {
-                    st.push(i);
-                }
-                 else if (st.peek() == -i) {
-                    st.pop();
-                }
+               st.push(i);
             }
+
         }
         int[] arr = new int[st.size()];
-        for(int j=arr.length-1;j>=0;j--)
+        for(int i=st.size()-1;i>=0;i--)
         {
-           arr[j] = st.pop();
+            arr[i] = st.pop();
         }
-        return arr;
-
+         return arr;
     }
 }
