@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Neelima0624/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Neelima0624/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Neelima0624/Leetcode/tree/master/0796-rotate-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Neelima0624/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Neelima0624/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3612-process-string-with-special-operations-i](https://github.com/Neelima0624/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Neelima0624/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Neelima0624/Leetcode/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Neelima0624/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
 | ------- |
