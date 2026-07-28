@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Neelima0624/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Neelima0624/Leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Neelima0624/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Neelima0624/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Neelima0624/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0997-find-the-town-judge](https://github.com/Neelima0624/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neelima0624/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Neelima0624/Leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Neelima0624/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Neelima0624/Leetcode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Neelima0624/Leetcode/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Neelima0624/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Sorting
 |  |
@@ -312,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Neelima0624/Leetcode/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Neelima0624/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
