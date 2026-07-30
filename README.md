@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Neelima0624/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Neelima0624/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/Neelima0624/Leetcode/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/Neelima0624/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Neelima0624/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Neelima0624/Leetcode/tree/master/0739-daily-temperatures) |
@@ -328,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Neelima0624/Leetcode/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Neelima0624/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Neelima0624/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Neelima0624/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
