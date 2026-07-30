@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Neelima0624/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Neelima0624/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neelima0624/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Neelima0624/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Neelima0624/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Neelima0624/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Neelima0624/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Neelima0624/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Neelima0624/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Neelima0624/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Neelima0624/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Neelima0624/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Neelima0624/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Neelima0624/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/Neelima0624/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Neelima0624/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Neelima0624/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Neelima0624/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 ## Linked List
 |  |
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Neelima0624/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Neelima0624/Leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
