@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelima0624/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0563-binary-tree-tilt](https://github.com/Neelima0624/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Neelima0624/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelima0624/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0563-binary-tree-tilt](https://github.com/Neelima0624/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Neelima0624/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0563-binary-tree-tilt](https://github.com/Neelima0624/Leetcode/tree/master/0563-binary-tree-tilt) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Neelima0624/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
