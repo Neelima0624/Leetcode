@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Neelima0624/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neelima0624/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Neelima0624/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelima0624/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Neelima0624/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Neelima0624/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neelima0624/Leetcode/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/Neelima0624/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelima0624/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Neelima0624/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Neelima0624/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neelima0624/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Neelima0624/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelima0624/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Neelima0624/Leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Neelima0624/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neelima0624/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Neelima0624/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Neelima0624/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Neelima0624/Leetcode/tree/master/0226-invert-binary-tree) |
