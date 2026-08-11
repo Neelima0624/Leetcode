@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Neelima0624/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Neelima0624/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Neelima0624/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Neelima0624/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Neelima0624/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0997-find-the-town-judge](https://github.com/Neelima0624/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Neelima0624/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Neelima0624/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Neelima0624/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Neelima0624/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
