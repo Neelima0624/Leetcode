@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Neelima0624/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Neelima0624/Leetcode/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/Neelima0624/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Neelima0624/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neelima0624/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Neelima0624/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Neelima0624/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Neelima0624/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Neelima0624/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
 ## String Matching
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Neelima0624/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Neelima0624/Leetcode/tree/master/0518-coin-change-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Neelima0624/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
