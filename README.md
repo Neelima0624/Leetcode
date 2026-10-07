@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Neelima0624/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/Neelima0624/Leetcode/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Neelima0624/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Neelima0624/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Neelima0624/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3612-process-string-with-special-operations-i](https://github.com/Neelima0624/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Neelima0624/Leetcode/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Neelima0624/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1025-divisor-game](https://github.com/Neelima0624/Leetcode/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/Neelima0624/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -443,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Neelima0624/Leetcode/tree/master/0078-subsets) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Neelima0624/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
