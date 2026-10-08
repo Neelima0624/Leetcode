@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Neelima0624/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Neelima0624/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Neelima0624/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Neelima0624/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Neelima0624/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Neelima0624/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Neelima0624/Leetcode/tree/master/0268-missing-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Neelima0624/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Neelima0624/Leetcode/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/Neelima0624/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Neelima0624/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Neelima0624/Leetcode/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/Neelima0624/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Neelima0624/Leetcode/tree/master/0518-coin-change-ii) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Neelima0624/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Neelima0624/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
