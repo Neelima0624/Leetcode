@@ -14,10 +14,6 @@ class Solution {
                 tank=0;
             }
         }
-            if(total>=0)
-            {
-                return start;
-            }
-            return -1;
+           return total>=0?start:-1;
     }
 }
