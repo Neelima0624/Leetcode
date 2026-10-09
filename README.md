@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Neelima0624/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Neelima0624/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Neelima0624/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Neelima0624/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Neelima0624/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Neelima0624/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Neelima0624/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Neelima0624/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Neelima0624/Leetcode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Neelima0624/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Neelima0624/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Neelima0624/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Neelima0624/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Neelima0624/Leetcode/tree/master/0242-valid-anagram) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Neelima0624/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Neelima0624/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Neelima0624/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Neelima0624/Leetcode/tree/master/0101-symmetric-tree) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Neelima0624/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Neelima0624/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Neelima0624/Leetcode/tree/master/0079-word-search) |
 | [0498-diagonal-traverse](https://github.com/Neelima0624/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1672-richest-customer-wealth](https://github.com/Neelima0624/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
@@ -457,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Neelima0624/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Neelima0624/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Neelima0624/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Neelima0624/Leetcode/tree/master/0090-subsets-ii) |
 ## Longest Common Subsequence
 |  |
